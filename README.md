@@ -45,4 +45,4 @@ O layout foi adaptado para telas menores com uso de media queries:
 ## ✨ Autor
 
 Desenvolvido por **Brenda Ramos** 💜  
-📫 Entre em contato: [LinkedIn](https://www.linkedin.com/brendaramos116) 
+📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/brendaramos116) 
